@@ -95,7 +95,7 @@ a{
 }
 
 
-@media (max-width: 480px) {
+@media (max-width: 1050px) {
     
     h1 {
         font-size: 33px;
